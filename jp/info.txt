@@ -1,0 +1,7 @@
+/movies/ - https://wii.com/jp/movies/
+i was looking around and decided to try this and the index showed up, sadly no movies are viewable as it seems to be deleted and redirects to the main page.
+but we have names of movies now!!!
+the directories still exist, the movies dont exist anymore causing it go show a 404 ig..
+
+
+(this is a mix of beta wii movies/videos & after release videos (ex the demae video name), thats why im including it here since its also betawii content)
